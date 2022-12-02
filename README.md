@@ -11,5 +11,9 @@ Players move the golf ball using consecutive strikes and overcome various tracks
 - Unity 2020.1.2f1
 - Blender
 - Audacity
+- Third-party assets:
+  - [Minigolf Graphics Pack](https://assetstore.unity.com/packages/3d/environments/minigolf-graphics-pack-33206)
+  - [PolygonNature](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-low-poly-3d-art-by-synty-120152)
+  - TextMesh Pro
 
 ## Highlights
