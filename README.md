@@ -14,6 +14,6 @@ Players move the golf ball using consecutive strikes and overcome various tracks
 - Third-party assets:
   - [Minigolf Graphics Pack](https://assetstore.unity.com/packages/3d/environments/minigolf-graphics-pack-33206)
   - [PolygonNature](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-low-poly-3d-art-by-synty-120152)
-  - TextMesh Pro
+  - [TextMesh Pro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html)
 
 ## Highlights
