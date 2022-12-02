@@ -1,4 +1,4 @@
-# Minigolf
+# Minigolf - Game "Golf Madness" made with Unity
 
 ## About
 
