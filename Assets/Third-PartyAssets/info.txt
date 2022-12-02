@@ -1,0 +1,15 @@
+Here should be placed following assets:
+
+1) Minigolf Graphics Pack
+https://assetstore.unity.com/packages/3d/environments/minigolf-graphics-pack-33206
+
+2) PolygonNature
+https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-low-poly-3d-art-by-synty-120152
+
+3) TextMesh Pro
+
+4) Music
+Fuzzball Parade.mp3
+	Fuzzball Parade Kevin MacLeod (incompetech.com)
+	Licensed under Creative Commons: By Attribution 3.0 License
+	http://creativecommons.org/licenses/by/3.0/

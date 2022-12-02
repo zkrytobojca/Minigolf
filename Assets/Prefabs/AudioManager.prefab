@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4140681119251828951
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4140681119251828945}
+  - component: {fileID: 4140681119251828944}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4140681119251828945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4140681119251828951}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 43.75529, y: 0.26874733, z: 9.117559}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4140681119251828944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4140681119251828951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f162be95a12fa584a952b6c1f803e09b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioMixer: {fileID: 24100000, guid: 31af2c909c4508d4d9f878908c4e719e, type: 2}
+  sounds:
+  - name: BallInHole
+    audioClip: {fileID: 8300000, guid: 06ec6b2db9ced014aaa901198efb9eb5, type: 3}
+    type: 0
+    volume: 1
+    pitch: 1
+    looping: 0
+    source: {fileID: 0}
+  - name: Strike1
+    audioClip: {fileID: 8300000, guid: 0d64ea8b04379434b883c71452da2a8b, type: 3}
+    type: 0
+    volume: 1
+    pitch: 1
+    looping: 0
+    source: {fileID: 0}
+  - name: Strike2
+    audioClip: {fileID: 8300000, guid: f6fbef0a6029f6c4396751c2f29457af, type: 3}
+    type: 0
+    volume: 1
+    pitch: 1
+    looping: 0
+    source: {fileID: 0}
+  - name: Strike3
+    audioClip: {fileID: 8300000, guid: ba0f6fd36e6f2274c8219d19c9715a6a, type: 3}
+    type: 0
+    volume: 1
+    pitch: 1
+    looping: 0
+    source: {fileID: 0}
+  - name: Strike4
+    audioClip: {fileID: 8300000, guid: de037dce4a439cb40ac2820dd971b3dd, type: 3}
+    type: 0
+    volume: 1
+    pitch: 1
+    looping: 0
+    source: {fileID: 0}
+  - name: Strike5
+    audioClip: {fileID: 8300000, guid: f84d882a3afb68448981297e31984991, type: 3}
+    type: 0
+    volume: 1
+    pitch: 1
+    looping: 0
+    source: {fileID: 0}
+  - name: Button
+    audioClip: {fileID: 8300000, guid: f688cbd778145494da328c579255eeff, type: 3}
+    type: 1
+    volume: 1
+    pitch: 1
+    looping: 0
+    source: {fileID: 0}
+  - name: Music
+    audioClip: {fileID: 8300000, guid: 42c98f4001fe08046a5aed16ab7d3ff3, type: 3}
+    type: 2
+    volume: 0.626
+    pitch: 1
+    looping: 1
+    source: {fileID: 0}

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9a8f72ad5293a445805e119115c4c2b, type: 3}
+  m_Name: GrassFragmentsPack
+  m_EditorClassIdentifier: 
+  fragmentSpacing: 3
+  startFragments:
+    deadEnds:
+    - {fileID: 2717491917369095209, guid: 238ed8ac9cbe44f46a1e3b5516ef35a9, type: 3}
+    straightLines:
+    - {fileID: 6445886041709278111, guid: c48617476bf681942a6184f704cacc60, type: 3}
+    corners:
+    - {fileID: 7295379781213950719, guid: 85302935dec4f3a4d9639135843a007e, type: 3}
+    - {fileID: 3803262835068199908, guid: 082fac57ff0b7f14aa0699f40d991199, type: 3}
+    - {fileID: 8362792341340776697, guid: feffca3b402c46544af8e1d5db7bbafb, type: 3}
+    Tshaped:
+    - {fileID: 6106392643386537298, guid: c843df99a05f3d640851254062914b0d, type: 3}
+    Xshaped:
+    - {fileID: 3740466471345716043, guid: d148a0edfff16d040a21a3cb7f18279b, type: 3}
+    detached:
+    - {fileID: 2643335715796303646, guid: dbb5fe2b029e0b047ac58a26a50905f1, type: 3}
+  middleFragments:
+    deadEnds:
+    - {fileID: 1006546615904014874, guid: 9067e7cc18f7ae54ea8a9d970b954de3, type: 3}
+    straightLines:
+    - {fileID: 3069078238998507813, guid: 39668666f7b8be24bac300f74266b834, type: 3}
+    - {fileID: 3069078238998507813, guid: 39668666f7b8be24bac300f74266b834, type: 3}
+    - {fileID: 7440905273946684062, guid: 600539cbad333e04d8bf8187893ab8c5, type: 3}
+    - {fileID: 2059457049135265690, guid: ee5eedbe18c75a5498e25d18069511da, type: 3}
+    corners:
+    - {fileID: 3028475646265340846, guid: 9231ba798e3be264d86bff17e4d49c0c, type: 3}
+    - {fileID: 1912081251885941322, guid: 15bcfb5cebbfd9049bada1184a38c3a7, type: 3}
+    - {fileID: 206343472311857379, guid: 0fc2294a2bb400644be37fce1e838a12, type: 3}
+    - {fileID: 3327498615059155411, guid: c0409a835933bd04cb95f16c211563f6, type: 3}
+    Tshaped:
+    - {fileID: 7890448650299884713, guid: 9d957194ccae5a7408598ae6b848cada, type: 3}
+    Xshaped:
+    - {fileID: 4891784941191955434, guid: 3ce63006788380e4898c1e5810624690, type: 3}
+    detached:
+    - {fileID: 8828416351878298046, guid: 59552eab616c8e54696b37d4b3812052, type: 3}
+  finishFragments:
+    deadEnds:
+    - {fileID: 6767557063080847612, guid: e97b85b5332a8444485e1e90dbecc4e4, type: 3}
+    - {fileID: 8926342384884459183, guid: 1001028587833ea459fccd8e090b9cea, type: 3}
+    - {fileID: 2929271358884891822, guid: e92249dea9698cb4fb9d429f5a57c473, type: 3}
+    - {fileID: 8669496757093326072, guid: fe608e21528f8d6449f3e6a0454019cc, type: 3}
+    - {fileID: 6391594831639043798, guid: fc96e2f50c06e014ba43bd8c4c711bfe, type: 3}
+    - {fileID: 3547122002814462024, guid: 4a5b613bbd5a58a4c8b44468db6e6bcc, type: 3}
+    straightLines:
+    - {fileID: 1893612015477710964, guid: b601bb7a4deaaca42ab8783df116383c, type: 3}
+    corners:
+    - {fileID: 949192025788455559, guid: bf91afbb825a5e44d8f7b47a62aba266, type: 3}
+    Tshaped:
+    - {fileID: 3686723440681714053, guid: 07b01619219b02146a73c4359aa333b7, type: 3}
+    Xshaped:
+    - {fileID: 8033847302294030367, guid: a5a0165092fb9b148a3101774537b6dd, type: 3}
+    detached:
+    - {fileID: 2232999873035061437, guid: 0f4153192650a904fa128d16bd881714, type: 3}

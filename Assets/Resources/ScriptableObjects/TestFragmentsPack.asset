@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9a8f72ad5293a445805e119115c4c2b, type: 3}
+  m_Name: TestFragmentsPack
+  m_EditorClassIdentifier: 
+  startFragments:
+    deadEnds:
+    - {fileID: 2591455015076776746, guid: e53c379872172d24489ee6450910460a, type: 3}
+    straightLines:
+    - {fileID: 4041977271044561329, guid: 10d9c11646e980d4fab7b607ddc3e82c, type: 3}
+    corners:
+    - {fileID: 353991343540993294, guid: d12ba53f746e66a449f24761817da653, type: 3}
+    Tshaped:
+    - {fileID: 5431865554827247345, guid: fda06571b4359bc4a8e15247bd89bb2c, type: 3}
+    Xshaped:
+    - {fileID: 5653553567406842077, guid: 6de1c9d05fc72b3439a6fdbb6a584223, type: 3}
+    detached:
+    - {fileID: 2643335715796303646, guid: dbb5fe2b029e0b047ac58a26a50905f1, type: 3}
+  middleFragments:
+    deadEnds:
+    - {fileID: 7637355318119384113, guid: 1df9fa217e5b3fb46b61629349dc66f9, type: 3}
+    straightLines:
+    - {fileID: 3041495063824602287, guid: f0499fc69922f1b4280e042ce1603d87, type: 3}
+    corners:
+    - {fileID: 1107148442620060710, guid: 9d93d52ab8262174ab8317cbf9fa7377, type: 3}
+    Tshaped:
+    - {fileID: 1260470337972304244, guid: 8f18e6fac8ef4c54a811f6046effe718, type: 3}
+    Xshaped:
+    - {fileID: 7262075522714278255, guid: a126bd104f90ace4db06457fa2e65595, type: 3}
+    detached:
+    - {fileID: 8828416351878298046, guid: 59552eab616c8e54696b37d4b3812052, type: 3}
+  finishFragments:
+    deadEnds:
+    - {fileID: 2234868373644753916, guid: f5a35391ec25fe545b3c215ebeb60b2e, type: 3}
+    straightLines:
+    - {fileID: 7363674283314104387, guid: cea3fa9f372e26d40aa33e5009790a01, type: 3}
+    corners:
+    - {fileID: 7682399086650116196, guid: 9deb74dd7b1134b4185baa3dc4c4057f, type: 3}
+    Tshaped:
+    - {fileID: 1969441137895084180, guid: 3abf1deaa270b714d8f4e33cb1f76cd5, type: 3}
+    Xshaped:
+    - {fileID: 9150292326706535437, guid: deaf27ae520491b448a7f445c92b73db, type: 3}
+    detached:
+    - {fileID: 2232999873035061437, guid: 0f4153192650a904fa128d16bd881714, type: 3}
